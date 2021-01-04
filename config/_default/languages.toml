@@ -1,0 +1,21 @@
+[en]
+title = "This is a complicated one!"
+contentDir = "content/en"
+weight = 1
+[en.params]
+
+[[en.menu.main]]
+url = "/"
+name = "Home"
+weight = 1
+
+[de]
+title = "Das ist etwas kompliziert!"
+contentDir = "content/de"
+weight = 2
+[de.params]
+
+[[de.menu.main]]
+url = "/"
+name = "Startseite"
+weight = 1

@@ -1,0 +1,5 @@
+baseURL = "https://thisisacomplicated.one"
+languageCode = "en-us"
+title = "This is a complicated one!"
+
+# disableLanguages = ["de"]
